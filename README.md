@@ -1,5 +1,5 @@
-# Zombie Detective Guessing Game Alexa Skill
-An Amazon Echo app in which Alexa will try to guess which PvZ 2 character you are thinking about.
+# Alexa Blueprint Skill
+An Amazon Echo app blueprint that can help you get started with Alexa development.
 
 ## Building
 The build requires the alexa-skills-kit jar, which is only available to registered Amazon application developers.
@@ -13,6 +13,9 @@ To create a jar that can be loaded to Lambda, the typical maven command will loo
 
 ## To deploy as a Lamba function
 - Read the example section [Preparing a Java Sample to Deploy in Lambda](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/deploying-a-sample-skill-to-aws-lambda)
+
+## Skill Configuration
+See SKILL_INFO.md
 
 ## Resources
 Links to the Alexa documentation
