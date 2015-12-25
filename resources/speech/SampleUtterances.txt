@@ -1,0 +1,11 @@
+BluePrintIntent howdy blue print
+BluePrintIntent howdy blueprint
+BluePrintIntent hello blueprint
+BluePrintIntent hello blue print
+BluePrintIntent hey there blueprint
+BluePrintIntent hey there blue print
+BluePrintIntent what's up blue print
+BluePrintIntent what's up blueprint
+BluePrintIntent are you feeling blue
+BluePrintIntent are you feeling blue print
+BluePrintIntent are you feeling blueprint

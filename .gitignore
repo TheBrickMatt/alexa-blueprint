@@ -1,0 +1,12 @@
+*.iml
+*.ipr
+*.class
+.DS_Store
+*.jar
+*.war
+*.ear
+*.log
+*.log.gz
+target/
+repo/
+**/.idea
